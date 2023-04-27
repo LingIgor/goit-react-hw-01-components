@@ -28,10 +28,6 @@ export const StatisticList = styled.ul`
   margin-top: 40px;
 `;
 
-function getRandomHexColor() {
-  return `#${Math.floor(Math.random() * 16777215).toString(16)}`;
-}
-
 export const StatisticItem = styled.li`
   display: flex;
   align-items: center;

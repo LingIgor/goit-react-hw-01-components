@@ -4,7 +4,7 @@ import { FriendsItem } from './FriendsList.styled';
 import { FriendsList } from './FriendsList.styled';
 
 function getColorStatus(status) {
-  return status ? 'green 20px 10px 30px 5px;' : 'red 20px 10px 30px 5px;';
+  return status ? 'green 20px 10px 30px 5px' : 'red 20px 10px 30px 5px';
 }
 
 const FriendList = ({ friends }) => {

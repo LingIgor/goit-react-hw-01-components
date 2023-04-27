@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import FriendList from './FriendList';
+
 import { FriendsSpan } from './FriendsList.styled';
 import { FriendsContainer } from './FriendsList.styled';
 

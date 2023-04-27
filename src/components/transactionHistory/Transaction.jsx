@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import { BodyTd } from './Transactions.styled';
 import { Tr } from './Transactions.styled';
 
