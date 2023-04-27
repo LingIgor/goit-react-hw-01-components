@@ -12,10 +12,6 @@ import friends from './data/friends.json';
 import TransactionHistory from './transactionHistory/TransactionHistory';
 import transactions from './data/transactions.json';
 
-// data.map(({ label, id, percentage }) => {
-//   console.log([percentage, id, label]);
-// });
-
 export default function App() {
   return (
     <Section>
